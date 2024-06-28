@@ -1,2 +1,2 @@
 # Student-grade-tracker
-Student grade tracker helps the teachers to store the marks and grade of an individual student in class and keep track of their marks and grades
+Student grade tracker helps the teachers to store the marks and grade of an individual student in class and keep track of their marks and grades. In this project i had wrote the code in C programming languagee that helps the teachers to enter the marks an individual student in each subject as well as their overall grades based on their total marks and display their grades and prformance of an individual student in a class
